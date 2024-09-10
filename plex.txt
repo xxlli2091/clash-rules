@@ -1,0 +1,5 @@
+payload:
+  - 'metadata.provider.plex.tv'
+  - 'analytics.plex.tv'
+  - 'metadata-static.plex.tv'
+  - 'meta.plex.tv'
