@@ -3,3 +3,4 @@ payload:
   - 'analytics.plex.tv'
   - 'metadata-static.plex.tv'
   - 'meta.plex.tv'
+  - 'clients.plex.tv'
